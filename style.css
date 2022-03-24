@@ -86,6 +86,11 @@ span{
     align-items: center;
     justify-content: space-between;
 }
-contact{
-    
+.contact .contact-content text{
+    font-size: 20px;
+     font-weight: 500;
+     margin-bottom: 10px;
+     text-align: justify;
+}
+
 }
